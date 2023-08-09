@@ -1,4 +1,11 @@
-# Apuntes para un Data Scientist
+Apuntes para un Data Scientist
+=======================
+
+*Ayudaría mucho si apoyaras este proyecto con una ⭐ en Github!*
+
+## Comenzando 🚀
+
+## Apuntes
 
 Algunos apuntes faciles de llevar y ejecutar paso a paso para comprender de manera simple las librerias mas usadas, como Pandas, Numpy y matplotlib.
 Los apuntes iran creciendo a medida que hagas mas resumenes, si ven algo raro o bueno para aportar pueden hacermelo saber! :)
@@ -16,3 +23,24 @@ Matplotlib es una biblioteca para la generación de gráficos a partir de datos 
 La misma puede ser descargada de [Matplotlib](https://matplotlib.org/).
 
 Todas estas librerias y muchas mas pueden ser descargadas desde [pypi.org](https://pypi.org/).
+
+## Muestas de agradecimiento 🎁
+
+Si te gustó este proyecto y quisieras apoyarlo, cualquiera de estas acciones estaría más que bien para nosotros:
+
+* Apoyar este proyecto con una ⭐ en Github para llegar a más personas.
+* [Puedes conectar en Linkedin](https://www.linkedin.com/in/fabian-alejandro-banderas-benitez-8257a519b/) y dejar algún mensaje.
+* Compartir este proyecto con otras personas.
+
+
+## Autor 👥
+
+La colaboración principal fue realizada por:
+
+* **[Fabián Alejandro Banderas Benítez](https://github.com/fabianbanderasb)**: Ejecución y modificación.
+* **[Jorge Ignacio Lara Ceballos](https://github.com/DDRRAKKENN)**: Creación, ideación y puesta en marcha del proyecto.
+
+
+---
+
+**Copyright © Fabián Alejandro Banderas Benítez 2023** ⌨️ [**Website**](https://www.fabianbanderas.com) ⌨️ [**Linkedin**](https://www.linkedin.com/in/fabian-alejandro-banderas-benitez-8257a519b/) ⌨️ [**Github**](https://github.com/fabianbanderasb) 
